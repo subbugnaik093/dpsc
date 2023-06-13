@@ -62,7 +62,7 @@
     
     <div class="carousel-inner" >
       <div class="carousel-item active"  >
-        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5338377/cover/1920x770d3f78b1777bb480e8eac16b1ca7cec2d.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5359029/cover/1920x770cc1df01fcc6f403c8fdfcf37cecf54a3.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
         
         <div class="carousel-caption d-none d-md-block">
           <h5>Agilan</h5>
@@ -70,14 +70,14 @@
         </div>
       </div>
       <div class="carousel-item " >
-        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5338377/cover/1920x770d3f78b1777bb480e8eac16b1ca7cec2d.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5351513/cover/1920x770fa9b7e4e13c14754b8c041ee491981f9.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
         <div class="carousel-caption d-none d-md-block">
           <h5>Ayothi</h5>
           
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5338377/cover/1920x770d3f78b1777bb480e8eac16b1ca7cec2d.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5311140/cover/1920x770b3a52885106f4cc485e94f6cfdb66e06.jpg" class="d-block w-70" alt="..." style="position: relative; left: 170px;">
         <div class="carousel-caption d-none d-md-block">
           <h5>Vedha</h5>
           
@@ -139,11 +139,11 @@
 <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false" style="position: relative; top: 50px; left: 0px;">
     <div class="carousel-inner">
       <div class="carousel-item active" style="display: flex; position: relative; justify-content: space-around;">
-        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5310699/portrait/1920x77053a13959c7fc419a87153ffdc5676c5e030bdfd51823488d90252a35873cbb80.jpg" class="d-block w-30" alt="..." style="position: relative; right: 10px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5359029/portrait/1920x770cc1df01fcc6f403c8fdfcf37cecf54a3.jpg" class="d-block w-30" alt="..." style="position: relative; right: 10px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206541/portrait/1920x77025158aeecf4c4ba191c473003b348c99.jpg" class="d-block w-30" alt="..." style="position: relative; left: 10px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246218/portrait/1920x7707fe3d1ec02c444049b2b62926681b281.jpg" class="d-block w-30" alt="..." style="position: relative; left: 20px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228515/portrait/1920x770bd6d526edb74462899b31f760cac61b5.jpg" class="d-block w-30" alt="..." style="position: relative; left: 30px;">
-        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250012/portrait/1920x7702e2ba8da340346f9b2256075cd4a39f2b5cfca6efee94d588364979320f3fef2.jpg" class="d-block w-30" alt="..." style="position: relative; left: 30px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5351464/portrait/1920x770d1a8a883bd7a4f1daf9265f6d63888e1.jpg" class="d-block w-30" alt="..." style="position: relative; left: 30px;">
       
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5277822/portrait/1920x770c6300138e66e4caeb7bf3a4f9f02067b.jpg" class="d-block w-30" alt="..." style="position: relative; left: 40px;">
    
@@ -219,7 +219,7 @@
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206541/portrait/1920x77025158aeecf4c4ba191c473003b348c99.jpg" class="d-block w-30" alt="..." style="position: relative; left: 10px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246218/portrait/1920x7707fe3d1ec02c444049b2b62926681b281.jpg" class="d-block w-30" alt="..." style="position: relative; left: 20px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228515/portrait/1920x770bd6d526edb74462899b31f760cac61b5.jpg" class="d-block w-30" alt="..." style="position: relative; left: 30px;">
-        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5310699/portrait/1920x77053a13959c7fc419a87153ffdc5676c5e030bdfd51823488d90252a35873cbb80.jpg" class="d-block w-30" alt="..." style="position: relative; left: 20px;">
+        <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5351464/portrait/1920x770d1a8a883bd7a4f1daf9265f6d63888e1.jpg" class="d-block w-30" alt="..." style="position: relative; left: 20px;">
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5281686/portrait/1920x7704af47d1e734948e381572ad1b52a4ecb4df6c4abb1824eac8df67df6ee440910.jpg" class="d-block w-30" alt="..." style="position: relative; left: 30px;">
       
         <img src="https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/portrait/1920x770f545e44b4f784495a8845760cd4928dd16a9937a4ca94efd8688698bcbaa64be.jpg" class="d-block w-30" alt="..." style="position: relative; left: 40px;">
